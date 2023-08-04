@@ -49,6 +49,7 @@ How to use a module?
 ```
 di1 > use module/download_exec
 ```
+You gotta notice that you should select the platform first and then select the module
 And you can get help using to find out what you should do in a module
 ```
 di1 > help
