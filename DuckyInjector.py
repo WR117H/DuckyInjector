@@ -1,6 +1,6 @@
 from colorama import Fore
 import sys
-from module.functoin import Digispark, Arduino, check
+from module.function import Digispark, Arduino, check
 from module.banner import ASCII
 from time import sleep
 
