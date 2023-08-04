@@ -10,14 +10,6 @@ random_numbers = []
 for _ in range(1):
     random_numbers.append(random.randint(min_num, max_num))
 
-               
-  / _ \__ ______/ /____ __          
-          
-         
-
-
-  
-
 banner1 = """
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡶⠿⠿⠷⣶⣄⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡿⠁⠀⠀⢀⣀⡀⠙⣷⡀⠀⠀⠀    ___           __  
