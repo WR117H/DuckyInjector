@@ -19,8 +19,6 @@ pip install -r requirements.txt
 Well DuckyInjector's a console based proggram and for interacting you don't have to use arguments
 and you'll learn how to work with it later with commands I'd mention later
 
-![192 168 1 1_ (1)](https://github.com/spaceeeeboy/Wifi-Ducky/assets/97615989/95a227b3-1617-4f7d-a187-3d3b88518d56)
-
 ## Commands
 
 | Command | Description |
