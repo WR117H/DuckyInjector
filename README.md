@@ -1,7 +1,8 @@
 # DuckyInjector
 
 
-![Uploading Screenshot 2023-08-04 180224.png…]()
+![Uplo![Screenshot 2023-08-04 180224](https://github.com/WR117H/DuckyInjector/assets/97615989/ffdbfdff-aabe-4330-bc32-dbf5595292c5)
+ading Screenshot 2023-08-04 180224.png…]()
                                                                       
 A tool for creating scripts for arduino and digispark for HID attacks automatically 
 # Setup
