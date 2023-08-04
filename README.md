@@ -14,10 +14,7 @@ Then head to the folder
 ```
 cd DuckyInjector
 ```
-Install the requirements using pip
-```
-pip install -r requirements.txt
-```
+
 ## How to interact with it?
 
 Well DuckyInjector's a console based proggram and for interacting you don't have to use arguments
