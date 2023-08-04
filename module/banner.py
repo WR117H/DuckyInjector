@@ -52,7 +52,7 @@ banner3 = """
 """
 
 def ASCII():
-    os.system("clear")
+    os.system("clear||cls")
     if 1 in random_numbers:
        print(Fore.LIGHTYELLOW_EX+banner1+Fore.RESET)
     elif 2 in random_numbers:
