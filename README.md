@@ -2,8 +2,8 @@
 
 
 ![Uploading Screenshot 2023-08-04 180224.png…]()
-
-A tool for creating scripts for arduino and digispark for HID attacks automatically
+                                                                      
+A tool for creating scripts for arduino and digispark for HID attacks automatically 
 # Setup
 First install DuckyInjector using git
 ```
