@@ -1,11 +1,11 @@
 from colorama import Fore
 import sys
-from module.functoin import Digispark, Arduino, Arduino_Prank_Talker, Digispark_Prank_Talker , check, help, clear, is_command_valid, runCMD
+from module.function import Digispark, Arduino, Arduino_Prank_Talker, Digispark_Prank_Talker , check, help, clear, is_command_valid, runCMD
 from module.banner import ASCII
 from time import sleep
 import signal
-modules=['execution/download_exec','prank/computer_talking','prank/rick_roll','prank/change_background']
-platforms=['arduino','digispark','hak5','esp32-s2']
+modules=['execution/download_exec','prank/talker']
+platforms=['arduino','digispark']
 is_on_module = 0
 is_on_banner = 0
 module_type=[]
